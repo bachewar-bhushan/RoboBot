@@ -22,7 +22,8 @@ SmartBot revolutionizes remote monitoring in the petroleum industry with its adv
 | LEDs                | 4      |
 
 ## Features
-![Features](https://github.com/bachewar-bhushan/RoboBot/assets/150711051/b7642767-6054-4100-b1df-d4d846af47fa)
+![Features](https://github.com/bachewar-bhushan/RoboBot/assets/142074907/0580c4f6-f7c0-4ace-a50a-f6e6c7c03ce1)
+
 
 ## Block Diagram
 ![Block Diagram](https://github.com/bachewar-bhushan/RoboBot/assets/150711051/b6331b03-da1a-43cd-92f0-884260cba320)
