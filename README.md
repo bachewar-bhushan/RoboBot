@@ -36,3 +36,6 @@ SmartBot revolutionizes remote monitoring in the petroleum industry with its adv
 ## Web Dashboard
 ![Web Dashboard](https://github.com/user-attachments/assets/06e3516e-96d7-410a-a286-b823d3edd09b)
 
+
+## Use Case
+![Use Case](https://github.com/user-attachments/assets/9f4b3027-6fcc-4194-89c4-3ecc848fc3fa)
