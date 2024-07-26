@@ -1,4 +1,4 @@
-# RoboBot
+# SmartBot
 ![RoboBot](https://github.com/bachewar-bhushan/RoboBot/assets/150711051/004efb9f-1230-4ef2-97d8-64487827b029)
 
 SmartBot revolutionizes remote monitoring in the petroleum industry with its advanced capabilities. This remote-controlled car, controlled by the Blynk IoT app, is equipped with MQ-2, MQ-3, and MQ-135 sensors for real-time data collection in petroleum environments. Continuously logging data to Google Sheets, SmartBot employs the One Class SVM model to detect anomalies, ensuring early identification of potential hazards or irregularities. 
@@ -32,3 +32,7 @@ SmartBot revolutionizes remote monitoring in the petroleum industry with its adv
 ![Raspberry Pi Pico W Circuit Diagram](https://github.com/bachewar-bhushan/RoboBot/assets/150711051/ed13ba9c-1c38-464e-968f-6926488c36cf)
 
 ![ESP8266 and L298N Motor Driver](https://github.com/bachewar-bhushan/RoboBot/assets/150711051/a7070d8b-7602-44ca-9587-4a15a343f8c3)
+
+## Web Dashboard
+![Web Dashboard](https://github.com/user-attachments/assets/06e3516e-96d7-410a-a286-b823d3edd09b)
+
